@@ -7,6 +7,6 @@ Materials from Oregon State CEOAS 2022 REU program.
 Elijah Stahr - elstahr@ttu.edu
 
 ## Acknowledgments 
-Juan Muglia 
-
 Andreas Schmittner
+
+Juan Muglia 
